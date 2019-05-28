@@ -2,13 +2,13 @@
 
 ## What is this thing?
 
-This is a model of a colony of _Anelosimus studiosus_ spiders, based primarily on the various assumptions and findings of two different papers: _"Site-specific group selection drives locally adapted group compositions"_ by Goodnight & Pruitt (2014), and _"Animal personality aligns task specialization and task proficiency in a spider society"_ by Wright, Holbrook, & Pruitt (2014). A major hypothesis of this model is that it is the influence of personality on a spider's task preference and performance that, in aggregate, lead to the survival of and adaption towards certain ratios of aggressive:docile spiders in spider colonies. 
+This is a model of a colony of _Anelosimus studiosus_ spiders, based primarily on the various assumptions and findings of two different papers: _"Site-specific group selection drives locally adapted group compositions"_ by Pruitt & Goodnight (2014), and _"Animal personality aligns task specialization and task proficiency in a spider society"_ by Wright, Holbrook, & Pruitt (2014). A major hypothesis of this model is that it is the influence of personality on a spider's task preference and performance that, in aggregate, lead to the survival of and adaption towards certain ratios of aggressive:docile spiders in spider colonies. 
 
 To that end, the model is built and designed with these primary goals in mind:
 
 * Have individual spiders perform, based on personality (aggressive vs. docile), tasks at frequency and proficiency similar to the findings of Wright, Holbrook, and Pruitt (2014).
 
-* Survive, thrive, die out, and adapt based on initial starting conditions and aggressive:docile spider ratios, similar with the results for experimental native spider mixtures in Goodnight and Pruitt (2014).
+* Survive, thrive, die out, and adapt based on initial starting conditions and aggressive:docile spider ratios, similar with the results for experimental native spider mixtures in Pruitt and Goodnight (2014).
 
 Plus the addition of some secondary goals:
 
